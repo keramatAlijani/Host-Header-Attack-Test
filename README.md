@@ -18,4 +18,4 @@ The web application should use the SERVER_NAME instead of the Host header. It sh
 ##contact with me
 Email : keramat.alijani@aut.ac.ir <br />
 Mobile : +989122565106 <br />
-Website : [www.nahankav.com](https://www.nahankav.com)
+Website : [www.nahankav.com](http://www.nahankav.com)
