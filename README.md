@@ -1,2 +1,1 @@
-Inline-style: 
-![alt text](http://uupload.ir/files/box3_websecurity.png "Logo Title Text 1")
+![alt text](http://uupload.ir/files/4mhd_websecurity-hostheader.png "WEBSecurity")
