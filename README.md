@@ -6,6 +6,7 @@ in linux terminal : <br />
 1. `git clone https://github.com/keramatAlijani/Host-Header-Attack-Test.git` <br />
 2. `cd Host-Header-Attack-Test`<br />
 3. `pip install -r requirements.txt`<br />
+if You are using pip version 7.1.0, You should consider upgrading via the 'pip install --upgrade pip' command
 
 ##Usage
 1. `python Host-Header-Vulnerability-Detection.py`<br />
