@@ -2,6 +2,9 @@
 ## Host Header Attack Test - Description (Acunetix)
 In many cases, developers are trusting the HTTP Host header value and using it to generate links, import scripts and even generate password resets links with its value. This is a very bad idea, because the HTTP Host header can be controlled by an attacker. This can be exploited using web-cache poisoning and by abusing alternative channels like password reset emails.
 ##Install
+please Installing python 2.7 or higher, for example, in centos 6.3, see the link below <br />
+[Installing python 2.7 on centos 6.3. Follow this sequence exactly for centos machine only](https://github.com/h2oai/h2o-2/wiki/installing-python-2.7-on-centos-6.3.-follow-this-sequence-exactly-for-centos-machine-only) <br /> <br />
+
 in linux terminal : <br />
 1. `git clone https://github.com/keramatAlijani/Host-Header-Attack-Test.git` <br />
 2. `cd Host-Header-Attack-Test`<br />
